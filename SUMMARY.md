@@ -51,5 +51,5 @@
 
 * [机器学习](README.md)
 
-* [人工智能](README.md)
+* [aha](aha_moment.md)
 

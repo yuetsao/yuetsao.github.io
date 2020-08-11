@@ -1,55 +1,38 @@
 # Summary
 * [介绍](README.md)
 
-* [开发语言](README.md)
+* [basic_theory](README.md)
+  * [math]
+    * [linear_algebra]
+    * [calculus]
+    * [probability_and_statistics]
+    * [advanced_mathematics]
+    * [discrete_mathematics]
+  * [English]
+  * [computer_networks]
+  * [database]
+  * [operator_system]
+  * [computer_architecture]
+  * [data_structure]
+* [algorithm_engineer]
+  * [big_data]
+  * [machine_learning]
+  * [deep_learning]
+* [architecture_engineer]
+  * [architecture_theory]
+  * [product_and_business]
+  * [test]
+  * [middleware]
+  * [programing_and_framework]
+  * [microservice]
+  * [high_concurrency]
+  * [search]
+  * [productivity_tools]
+* [fitness]
+* [life]
+* [interview]
+* [goal]
+* [aha]
 
-  * [java](java.md)
-    *  [java基础](a.md)
-      *  [第一章](a.md)
 
-  * [c](c.md)
-
-* [设计模式](README.md)
-
-* [前端开发](dd.md)
-
-* [基础知识](README.md)
-
-  *  [计算机组成原理](a.md)
-
-  *  [数据库系统原理](a.md)
-
-  *  [计算机网络原理](a.md)
-
-  *  [计算机操作系统](a.md)
-
-  *  [线性代数](a.md)
-
-  *  [微积分](a.md)
-
-  *  [高等数学](a.md)
-
-  *  [概率论与数理统计](a.md)
-
-  *  [离散数学](b.md)
-
-  *  [数据结构](data_struct.md)
-
-* [测试](README.md)
-
-* [服务器](README.md)
-
-* [效率工具](README.md)
-
-  *  [markdown](markdown.md)
-
-  *  [vim&neovim](vim.md)
-
-* [算法工程师](README.md)
-
-* [大数据](README.md)
-
-* [机器学习](README.md)
-
-* [aha](aha_moment.md)
 

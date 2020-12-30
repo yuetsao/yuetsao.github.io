@@ -28,6 +28,7 @@
   * [muti_thread](multi_thread.md)
   * [search](README.md)
   * [productivity_tools](README.md)
+    * [how to write document](document.md)
 * [fitness](README.md)
 * [life](README.md)
 * [interview](README.md)

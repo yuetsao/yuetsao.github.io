@@ -14,6 +14,7 @@
   * [computer_architecture](README.md)
   * [data_structure](README.md)
 * [algorithm_engineer](README.md)
+  * [算法导论中的单词解释](算法导论英文版中的单词解释.md)
   * [big_data](README.md)
   * [machine_learning](README.md)
   * [deep_learning](README.md)

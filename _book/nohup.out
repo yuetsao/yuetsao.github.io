@@ -13,3 +13,7 @@ Press CTRL+C to quit ...
 [0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
 [0;36minfo:[0m found 3 pages 
 [0;36minfo:[0m found 6 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 0.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
